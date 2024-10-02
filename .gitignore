@@ -1,0 +1,14 @@
+# Compiled TADS files
+*.t3
+
+# Temporary files
+*.tmp
+*.bak
+
+# Logs
+*.log
+
+# IDE/editor specific files
+*.swp
+.idea/
+.vscode/
